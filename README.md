@@ -1,7 +1,7 @@
-## 👤 Identitas
+## 👤 IDENTITAS
 
 | | |
 |---|---|
-| **Nama** | EKA FEBRYANTO |
+| **NAMA** | EKA FEBRYANTO |
 | **NPM** | 20241320014 |
-| **Kelas** | A1 Sistem Informasi |
+| **KELAS** | A1 SISTEM INFORMASI |
